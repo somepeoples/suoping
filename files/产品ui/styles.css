@@ -18,7 +18,7 @@
   left:0px;
   top:0px;
   width:103px;
-  height:2217px;
+  height:2793px;
 }
 #u47 {
   border-width:0px;
@@ -26,7 +26,7 @@
   left:0px;
   top:32px;
   width:102px;
-  height:2216px;
+  height:2792px;
 }
 #u47_text {
   border-width:0px;
@@ -16724,7 +16724,7 @@
   border-width:0px;
   position:absolute;
   left:256px;
-  top:778px;
+  top:758px;
   width:383px;
   height:266px;
 }
@@ -19996,7 +19996,7 @@
   border-width:0px;
   position:absolute;
   left:256px;
-  top:1574px;
+  top:1584px;
   width:383px;
   height:266px;
 }
@@ -20635,7 +20635,7 @@
 #u814 {
   border-width:0px;
   position:absolute;
-  left:661px;
+  left:659px;
   top:1970px;
   width:41px;
   height:14px;
@@ -24198,7 +24198,7 @@
 #u939 {
   border-width:0px;
   position:absolute;
-  left:539px;
+  left:537px;
   top:1970px;
   width:43px;
   height:14px;
@@ -24234,7 +24234,7 @@
 #u941 {
   border-width:0px;
   position:absolute;
-  left:599px;
+  left:597px;
   top:1970px;
   width:44px;
   height:14px;
@@ -27186,8 +27186,8 @@
 #u1050 {
   border-width:0px;
   position:absolute;
-  left:45px;
-  top:97px;
+  left:768px;
+  top:1950px;
   width:10px;
   height:10px;
 }
@@ -27212,7 +27212,7 @@
   border-width:0px;
   position:absolute;
   left:45px;
-  top:157px;
+  top:97px;
   width:10px;
   height:10px;
 }
@@ -27230,27 +27230,24 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:91px;
-  height:26px;
+  width:11px;
+  height:11px;
 }
 #u1052 {
   border-width:0px;
   position:absolute;
-  left:221px;
-  top:42px;
-  width:90px;
-  height:25px;
-}
-#u1052_img.selected {
-}
-#u1052.selected {
+  left:45px;
+  top:157px;
+  width:10px;
+  height:10px;
 }
 #u1052_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:5px;
-  width:86px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u1053_img {
@@ -27264,7 +27261,7 @@
 #u1053 {
   border-width:0px;
   position:absolute;
-  left:112px;
+  left:221px;
   top:42px;
   width:90px;
   height:25px;
@@ -27274,6 +27271,34 @@
 #u1053.selected {
 }
 #u1053_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:5px;
+  width:86px;
+  word-wrap:break-word;
+}
+#u1054_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:91px;
+  height:26px;
+}
+#u1054 {
+  border-width:0px;
+  position:absolute;
+  left:112px;
+  top:42px;
+  width:90px;
+  height:25px;
+}
+#u1054_img.selected {
+}
+#u1054.selected {
+}
+#u1054_text {
   border-width:0px;
   position:absolute;
   left:2px;
